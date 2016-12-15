@@ -1,0 +1,1 @@
+export const ASKING_LIST = 'ASKING_LIST';

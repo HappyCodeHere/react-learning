@@ -1,0 +1,22 @@
+.main {
+	margin-top: 30px;
+	text-align: center;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+}
+
+/* .quantity {
+	position: relative;
+	left: -150px;
+	top: 50px;
+}
+
+.costs {
+	position: relative;
+	right: -150px;
+	bottom: 30px;
+	
+} */
